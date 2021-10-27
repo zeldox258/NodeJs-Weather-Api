@@ -42,7 +42,7 @@ app.post("/",function(req,res){
 /*
 {
   const cityName = "Istanbul";
-  const appid = "e9e62bfba98b8362bc38fccee4e6d625";
+  const appid = "?fill with your id?";
   const unit = "metric";
   const url = "https://api.openweathermap.org/data/2.5/weather?q="+cityName+"&units="+unit+"&appid="+appid;
 
